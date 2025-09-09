@@ -12,4 +12,4 @@ Control your system volume with the normalized distance between **thumb tip** an
 ```bash
 python -m venv .venv
 pip install -r requirements.txt
-puyhon hand_control.py
+python hand_control.py
