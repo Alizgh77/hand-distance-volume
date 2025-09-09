@@ -1,0 +1,13 @@
+{
+  "cam_index": 0,
+  "min_dist_norm": 0.14001363678212309,
+  "max_dist_norm": 0.16191392728361262,
+  "out_min": 0.0,
+  "out_max": 100.0,
+  "ema_alpha": 0.25,
+  "hysteresis_pct": 1.5,
+  "deadzone_pct": 2.0,
+  "draw": true,
+  "control_system_volume": true,
+  "hand_prefer_right": true
+}
