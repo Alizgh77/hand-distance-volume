@@ -1,0 +1,7 @@
+@'
+opencv-python
+mediapipe
+numpy
+pycaw; platform_system == "Windows"
+comtypes; platform_system == "Windows"
+'@ | Set-Content -Encoding UTF8 requirements.txt
